@@ -1059,27 +1059,96 @@ a {
   border-radius: 0 !important;
   font-weight: 400;
 }
-.cid-t90i7nntqS {
+.cid-t90p45ilL3 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-image: url("../../../assets/images/image00016-1540x1050.jpg");
 }
-.cid-t90i7nntqS .image-wrapper img {
+@media (min-width: 768px) {
+  .cid-t90p45ilL3 {
+    align-items: flex-end;
+  }
+  .cid-t90p45ilL3 .row {
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 767px) {
+  .cid-t90p45ilL3 {
+    align-items: center;
+  }
+  .cid-t90p45ilL3 .row {
+    justify-content: center;
+  }
+}
+.cid-t90p45ilL3 .mbr-section-title,
+.cid-t90p45ilL3 .card_topic {
+  margin-bottom: 12px;
+}
+.cid-t90p45ilL3 .item-wrapper {
+  padding-bottom: 24px;
+  padding-bottom: 75px;
+}
+@media (max-width: 991px) {
+  .cid-t90p45ilL3 .item-wrapper {
+    padding-bottom: 50px;
+  }
+}
+@media (max-width: 767px) {
+  .cid-t90p45ilL3 .item-wrapper {
+    padding-bottom: 30px;
+  }
+}
+.cid-t90p45ilL3 .item-wrapper:hover .mbr-section-title a {
+  color: #187f83 !important;
+}
+.cid-t90p45ilL3 .author_post {
+  margin-right: 25px;
+  display: inline-block;
+  white-space: nowrap;
+}
+.cid-t90p45ilL3 .card_post {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  margin-top: 30px;
+}
+.cid-t90p45ilL3 .image_post {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  min-width: 50px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.07);
+  margin-right: 15px;
+  border-radius: 50%;
+}
+.cid-t90p45ilL3 .image_post img {
   width: 100%;
-  object-fit: cover;
+  height: 100%;
+  border-radius: 50%;
 }
-.cid-t90i7nntqS .mbr-section-title {
+.cid-t90p45ilL3 .category_content,
+.cid-t90p45ilL3 .date,
+.cid-t90p45ilL3 .name_author {
+  opacity: .8;
+}
+.cid-t90p45ilL3 .card_topic .mbr-iconfont {
+  font-size: 1rem;
+  color: #187f83;
+  margin-left: 10px;
+  margin-right: 3px;
+}
+.cid-t90p45ilL3 .mbr-section-btn .btn-white-outline {
+  padding: 3px 0;
+  border: none !important;
+  background-color: transparent !important;
+}
+.cid-t90p45ilL3 .mbr-section-title,
+.cid-t90p45ilL3 .post_wrap {
   color: #253c57;
-  text-align: left;
 }
-.cid-t90i7nntqS .mbr-section-subtitle {
+.cid-t90p45ilL3 .mbr-text,
+.cid-t90p45ilL3 .mbr-section-btn {
   color: #eeff42;
-  text-align: left;
-  margin: 0;
-}
-.cid-t90i7nntqS .row {
-  display: flex;
-  justify-content: center;
-  padding: 0;
-  padding-bottom: 52px;
 }
 .cid-t2kfcEvLJI {
   padding-top: 0rem;
