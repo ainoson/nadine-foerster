@@ -1363,11 +1363,6 @@ a {
     transform: translate(-47%, -75%);
   }
 }
-@media (min-width: 1400px) {
-  .cid-sV8voJvft5 .text {
-    transform: translate(-7%, -75%);
-  }
-}
 .cid-sV8voJvft5 .wrapper {
   padding: 3rem 1rem 5rem;
 }
@@ -1944,6 +1939,137 @@ a {
   .cid-t2kghEB0Ka .display-4 {
     font-weight: 300;
   }
+}
+.cid-t906zn7DqX {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-t906zn7DqX .item-wrapper {
+  width: 100%;
+}
+.cid-t906zn7DqX .left-side {
+  text-align: left;
+}
+.cid-t906zn7DqX .row {
+  align-items: center;
+  justify-content: center;
+}
+.cid-t906zn7DqX .card-box {
+  z-index: 3;
+  position: relative;
+  margin: auto;
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.3s;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.cid-t906zn7DqX .card-box:focus-within {
+  opacity: 1;
+}
+.cid-t906zn7DqX .row-center {
+  height: 100%;
+}
+.cid-t906zn7DqX .card-img {
+  border-radius: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: all 0.3s;
+  max-height: 300px;
+}
+.cid-t906zn7DqX .card-img img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+.cid-t906zn7DqX .card-wrapper {
+  display: flex;
+  position: relative;
+  margin: auto;
+  width: 100%;
+  cursor: pointer;
+  height: 300px;
+  padding: 20px;
+  overflow: hidden;
+  transition: all 1s;
+}
+.cid-t906zn7DqX .card-wrapper:hover .card-box,
+.cid-t906zn7DqX .card-wrapper:focus-within .card-box {
+  opacity: 1;
+  transform: translateY(0px);
+}
+.cid-t906zn7DqX .card-wrapper:hover .card-img,
+.cid-t906zn7DqX .card-wrapper:focus-within .card-img {
+  transform: scale(1.1);
+}
+.cid-t906zn7DqX .card-wrapper:hover:before,
+.cid-t906zn7DqX .card-wrapper:focus-within:before {
+  opacity: 0.6;
+}
+.cid-t906zn7DqX .card-title {
+  color: #fafafa;
+  width: 100%;
+  text-align: center;
+}
+.cid-t906zn7DqX .g {
+  grid-row-gap: 24px;
+}
+.cid-t906zn7DqX .mobi-mbri {
+  font-size: 50px;
+  color: #3D626C;
+}
+.cid-t906zn7DqX .container {
+  width: 95%;
+}
+@media (max-width: 1100px) {
+  .cid-t906zn7DqX .carousel-control {
+    display: none;
+  }
+}
+.cid-t906zn7DqX .mbr-section-subtitle {
+  margin-bottom: 20px;
+  color: #012b3a;
+  text-align: left;
+}
+.cid-t906zn7DqX .mbr-section-title {
+  margin-bottom: 60px;
+  color: #012b3a;
+  text-align: left;
+}
+.cid-t906zn7DqX .card1 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-3-2000x2667.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.cid-t906zn7DqX .card2 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-4-2000x2666.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.cid-t906zn7DqX .card3 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-1-2000x1500.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.cid-t906zn7DqX .card4 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-10-2000x1500.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.cid-t906zn7DqX .card5 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-9-2000x2667.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.cid-t906zn7DqX .card6 {
+  background-image: url("../../../assets/images/nadine-foerster-spt-5-1808x2411.jpeg");
+  background-size: cover;
+  background-position: center;
 }
 .cid-t7pNOvnPY4 {
   padding-top: 8rem;
