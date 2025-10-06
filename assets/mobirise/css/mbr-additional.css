@@ -1061,7 +1061,7 @@ a {
 }
 .cid-t90rUIJJcv {
   position: relative;
-  background-image: url("../../../assets/images/nadeen-1-2025-main-pic-light-klein-2000x1408.jpg");
+  background-image: url("../../../assets/images/header-nadine-fourster-2025-2000x1414.jpg");
 }
 @media (min-width: 992px) {
   .cid-t90rUIJJcv .display-1 {
@@ -1076,7 +1076,7 @@ a {
 }
 .cid-t90rUIJJcv .mbr-section-subtitle {
   font-weight: 300;
-  color: #187f83;
+  color: #b31d97;
 }
 .cid-t90rUIJJcv .mbr-section-btn {
   z-index: 3;
@@ -1294,6 +1294,56 @@ a {
   color: #6f8bab;
 }
 .cid-t2keqgSRM6 .mbr-section-subtitle {
+  color: #253c57;
+}
+.cid-uYSJDGdqIZ {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-uYSJDGdqIZ .card-wrapper {
+    margin: 0;
+    padding: 0;
+  }
+}
+.cid-uYSJDGdqIZ .mbr-section-title,
+.cid-uYSJDGdqIZ .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-uYSJDGdqIZ .card-title,
+.cid-uYSJDGdqIZ .card-box {
+  color: #b31d97;
+}
+.cid-uYSJDGdqIZ .mbr-text {
+  color: #9b9ba5;
+}
+@media (max-width: 600px) {
+  .cid-uYSJDGdqIZ .mbr-section-title {
+    letter-spacing: -1px;
+  }
+}
+@media (min-width: 768px) {
+  .cid-uYSJDGdqIZ .border-right {
+    border-right: 2px solid rgba(255, 255, 255, 0.25);
+  }
+  .cid-uYSJDGdqIZ .top {
+    border-top: 2px solid rgba(255, 255, 255, 0.25);
+  }
+  .cid-uYSJDGdqIZ .margin-left {
+    margin-left: 5rem;
+    padding: 3rem 0;
+  }
+}
+@media (min-width: 768px) and (min-width: 768px) {
+  .cid-uYSJDGdqIZ .border-right {
+    padding: 3rem 3rem 3rem 0;
+  }
+}
+.cid-uYSJDGdqIZ .mbr-section-title {
+  color: #6f8bab;
+}
+.cid-uYSJDGdqIZ .mbr-section-subtitle {
   color: #253c57;
 }
 .cid-t90jo4JtyH {
